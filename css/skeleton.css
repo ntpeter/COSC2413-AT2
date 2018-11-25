@@ -1,0 +1,37 @@
+/* -- LAYOUT CONFIGURATION -- */
+
+html {
+	/* force vertical scrollbar */
+	overflow-y: scroll;
+}
+
+body {
+	margin: 0;
+}
+
+header {
+	height: 100%;
+}
+
+nav {
+	height: 30px;
+}
+
+main {
+	height: 100%;
+}
+
+footer {
+	height: 100%;
+}
+
+.container {
+	height: 100%;
+	margin: 0 auto;
+	max-width: 1024px;
+}
+
+#logo {
+	height: 70px;
+	overflow: hidden;
+}

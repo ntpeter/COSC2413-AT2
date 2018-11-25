@@ -1,0 +1,47 @@
+Array
+(
+    [custName] => Frank Grimes
+    [email] => Email@email.com
+    [mobile] => 0421517029
+)
+Array
+(
+    [0] => Array
+        (
+            [movie] => CH
+            [session] => MON-01
+            [seat] => Array
+                (
+                    [SF] => 0
+                    [SP] => 2
+                    [SC] => 0
+                    [FA] => 0
+                    [FC] => 3
+                    [BA] => 0
+                    [BF] => 5
+                    [BC] => 0
+                )
+
+        )
+
+)
+Array
+(
+    [0] => Array
+        (
+            [seat] => Array
+                (
+                    [SF] => 0
+                    [SP] => 21
+                    [SC] => 0
+                    [FA] => 0
+                    [FC] => 60
+                    [BA] => 0
+                    [BF] => 100
+                    [BC] => 0
+                )
+
+            [total] => 181
+        )
+
+)
