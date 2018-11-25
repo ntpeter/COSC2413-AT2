@@ -1,5 +1,5 @@
 # COSC2413 AT2 & AT3 | Silverado Cinema
-**Course Name:** Web Programming
+**Course Name:** Web Programming (2017, Semester 2)
 
 A movie booking website which was designed and developed for Silverado Cinema (a mock client) as an assignment using HTML, CSS, JavaScript and PHP. The aim was to promote the client's business and take online bookings with client-side and server-side validation.
 
